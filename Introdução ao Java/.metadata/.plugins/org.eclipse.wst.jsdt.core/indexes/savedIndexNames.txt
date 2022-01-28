@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\luizf\OneDrive\Área de Trabalho\Introdução ao Java\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3331600464.index

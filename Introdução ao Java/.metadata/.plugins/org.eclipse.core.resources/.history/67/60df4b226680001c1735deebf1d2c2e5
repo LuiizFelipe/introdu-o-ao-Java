@@ -1,0 +1,24 @@
+/*
+ * Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e
+dias e mostre-a expressa apenas em dias.
+
+ */
+
+package introduçãoAoJava;
+
+import java.util.Scanner;
+
+public class Exercicio1 {
+
+	public static void main(String[] args) {
+		int idade,meses,dias,diasMes=30;
+		int diasano=365, diasVida, anos;
+   ID scanner= new Scanner (System.in);
+   System.out.println();("Qual sua Idade: ");
+   idade=id.nextint();
+   System.out.println("Qual mês é seu aniversario: ");
+   meses=id.nextInt();
+   System.out.println
+	}
+
+}
